@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Digital Me</string>
+    <string name="btn_choose_image">Choose image...</string>
+    <string name="btn_process_image">Process image...</string>
+</resources>
